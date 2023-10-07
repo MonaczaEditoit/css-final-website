@@ -21,10 +21,15 @@
 .nav-bar2{
 
     display: grid;
-    padding-left: 8rem;
     grid-template-columns: 33.33% 33.33% 33.33%;
+    padding-left: 7rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
     
 }
+
+
 
 
 #container{
@@ -62,7 +67,7 @@
 }
 
 #card{
-    background-color: papayawhip;
+    background-color: #FBFFFF;
     
 }
 
