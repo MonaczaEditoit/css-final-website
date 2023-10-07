@@ -1,0 +1,137 @@
+
+
+#inputss{
+    text-align: center;
+
+
+}
+#user-name{
+
+    margin-bottom: 1rem;
+
+}
+#password{
+    margin-bottom: 1rem;
+
+}
+.nav-bar{
+    text-align: center;
+}
+
+.nav-bar2{
+
+    display: grid;
+    padding-left: 8rem;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    
+}
+
+
+#container{
+
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+}
+
+#container2{
+    margin-bottom: 2rem;
+}
+
+#inputss2{
+
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    padding-left: 1rem;
+}
+
+
+#password2{
+    margin-left: 1rem;
+    
+
+}
+#buttonz{
+    margin-left: 2rem;
+    
+}
+
+#container3{
+
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+}
+
+#card{
+    background-color: papayawhip;
+    
+}
+
+#name-posts{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+#img1{
+    height: 15rem;
+    width: 15rem;
+    object-fit: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    
+
+}
+
+#buttonz3{
+    margin-top: 0.5rem;
+}
+#pp1{
+
+    height: 4rem;
+    width: 4rem;
+    object-fit: cover;
+
+
+}
+#pic-name{
+
+    display: grid;
+    grid-template-columns: 4rem 40%;
+    margin-bottom: 1rem;
+
+}
+
+
+
+#container-friends{
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 1rem;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+}
+
+#image-name-friends{
+
+    display: grid;
+    grid-template-columns: 5rem 30%;
+    margin-bottom: 1rem;
+    
+}
+
+
+#name-friends{
+
+    margin-top: 2rem;
+    margin-left: 1rem;
+
+}
+
+#image-friends{
+
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    
+
+}
